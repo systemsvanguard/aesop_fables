@@ -1,0 +1,22 @@
+/* Place our custom app styles here */
+.myNavHead {
+  font-weight: bold;
+  font-size: 1.875em;
+  color: #4caf50;
+}
+
+.moral {
+	font-weight: 700;
+	color: #800000;  /* maroon */
+	font-style: italic;
+}
+
+.responsive-image {
+  max-width: 100%; 
+  display:block; 
+  height: auto;
+  border-radius: 20px; 
+  border: 2px solid #4caf50; 
+  padding: 20px; 
+}
+
